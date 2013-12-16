@@ -1,0 +1,8 @@
+.DS_Store
+build/
+.idea/
+*.pbxuser
+*.perspective
+*.perspectivev3
+
+xcuserdata
